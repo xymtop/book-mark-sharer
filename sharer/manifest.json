@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "书签分享者",
+  "description": "与朋友共享您的美好！！！",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "bookmarks"
+  ]
+}
